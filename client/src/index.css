@@ -1,0 +1,16 @@
+@import "tailwindcss";
+.black-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.swhead {
+    font-family: "Hind Siliguri", sans-serif;
+}
+
+input:focus {
+    outline: none;
+}

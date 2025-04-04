@@ -1,0 +1,2077 @@
+{
+    "categories": [{
+            "name": "biriyani",
+            "image": "/Biryani.jpg",
+            "id": "c59b",
+            "tagline": "Aromatic, flavorful, and a feast for the senses!",
+            "items": [{
+                    "id": "BRY001",
+                    "sector_bir": "biryani",
+                    "sector_rol": "rolls",
+                    "sector_sal": "salads",
+                    "price": 299,
+                    "price_two": 310,
+                    "restaurant_name": "Hyderabad Spice",
+                    "ratings": 4.5,
+                    "ratings_count": "5.3k",
+                    "image": "/Biryani_1.jpg",
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Hyderabadi Dum Biryani - Slow-cooked rice with aromatic spices and tender meat",
+                    "area_name": "Behala, Kolkata",
+                    "biryani": [{
+
+                            "id": "BRY001KOL",
+                            "name": "Royal Awadhi Biryani",
+                            "price": 320,
+                            "ratings": 4.7,
+                            "reviews": 1520,
+                            "description": "A fragrant and flavorful biryani cooked with premium basmati rice, succulent mutton pieces, and a blend of secret Awadhi spices. Slow-cooked in a sealed handi for the perfect taste."
+                        },
+                        {
+                            "id": "BRY002KOL",
+                            "name": "Zam Zam Special Chicken Biryani",
+                            "price": 280,
+                            "ratings": 4.5,
+                            "reviews": 1340,
+                            "description": "A Kolkata-style chicken biryani with juicy chicken pieces, aromatic saffron-infused rice, and the signature potato that makes it unique to the city. Served with raita."
+                        },
+                        {
+                            "id": "BRY003KOL",
+                            "name": "Aminia Mutton Biryani",
+                            "price": 350,
+                            "ratings": 4.8,
+                            "reviews": 1980,
+                            "description": "A legendary dish from one of Kolkata's oldest biryani houses. Tender mutton pieces, flavorful rice, and a perfectly balanced spice mix, topped with a soft-boiled potato and caramelized onions."
+                        },
+                        {
+                            "id": "BRY004KOL",
+                            "name": "Shiraz Chicken Biryani",
+                            "price": 300,
+                            "ratings": 4.6,
+                            "reviews": 1250,
+                            "description": "A true delight for chicken lovers! This Kolkata-style biryani features marinated chicken, fragrant rice, and the city's signature potato, cooked to perfection."
+                        },
+                        {
+                            "id": "BRY005KOL",
+                            "name": "Oudh 1590 Raan Biryani",
+                            "price": 420,
+                            "ratings": 4.9,
+                            "reviews": 2100,
+                            "description": "A luxurious biryani experience with a slow-cooked whole lamb leg, infused with rich Awadhi flavors. A royal treat for those who love authentic biryani."
+                        },
+                        {
+                            "id": "BRY006KOL",
+                            "name": "Arsalan Special Chicken Biryani",
+                            "price": 290,
+                            "ratings": 4.7,
+                            "reviews": 1765,
+                            "description": "A Kolkata favorite! Fragrant basmati rice, juicy chicken, and a soft potato, all slow-cooked with authentic Mughlai spices. Served with raita and salad."
+                        },
+                        {
+                            "id": "BRY007KOL",
+                            "name": "Rehmania Beef Biryani",
+                            "price": 260,
+                            "ratings": 4.5,
+                            "reviews": 1420,
+                            "description": "A hidden gem in the streets of Kolkata, this beef biryani is slow-cooked to perfection with rich spices and tender beef pieces, making it an absolute delight."
+                        },
+                        {
+                            "id": "BRY008KOL",
+                            "name": "Haji Saheb Dum Biryani",
+                            "price": 340,
+                            "ratings": 4.6,
+                            "reviews": 1650,
+                            "description": "This biryani is prepared in a traditional dum-style, with aromatic rice, tender meat, and rich masala, creating an unforgettable taste experience."
+                        },
+                        {
+                            "id": "BRY009KOL",
+                            "name": "Kolkata Egg Biryani",
+                            "price": 240,
+                            "ratings": 4.3,
+                            "reviews": 1200,
+                            "description": "For egg lovers, this biryani is a must-try! Spiced rice, boiled eggs, and the signature potato, making it a delicious and affordable meal."
+                        },
+                        {
+                            "id": "BRY010KOL",
+                            "name": "Kolkata Veg Biryani",
+                            "price": 230,
+                            "ratings": 4.2,
+                            "reviews": 980,
+                            "description": "A vegetarian twist on Kolkata's iconic biryani, featuring aromatic rice, flavorful paneer, and the signature potato, cooked with fragrant spices."
+                        }
+
+                    ],
+
+                    "rolls": [{
+                            "id": "R001",
+                            "name": "Kolkata Egg Roll",
+                            "price": 120,
+                            "ratings": 4.6,
+                            "reviews": 1785,
+                            "description": "A crispy paratha wrap filled with a flavorful egg omelet, onions, and tangy sauces, a street food classic of Kolkata."
+                        },
+                        {
+                            "id": "R002",
+                            "name": "Chicken Kathi Roll",
+                            "price": 150,
+                            "ratings": 4.7,
+                            "reviews": 2023,
+                            "description": "Juicy and spicy chicken pieces wrapped in a soft paratha, topped with onions, chutneys, and a dash of lemon."
+                        },
+                        {
+                            "id": "R003",
+                            "name": "Mutton Seekh Kebab Roll",
+                            "price": 180,
+                            "ratings": 4.8,
+                            "reviews": 1895,
+                            "description": "Succulent mutton seekh kebabs rolled in a buttery paratha, complemented by fresh salad and mint chutney."
+                        },
+                        {
+                            "id": "R004",
+                            "name": "Double Egg Chicken Roll",
+                            "price": 170,
+                            "ratings": 4.5,
+                            "reviews": 1654,
+                            "description": "A double dose of eggs with spiced chicken pieces wrapped in a crispy paratha, a filling delight for food lovers."
+                        },
+                        {
+                            "id": "R005",
+                            "name": "Paneer Tikka Roll",
+                            "price": 140,
+                            "ratings": 4.4,
+                            "reviews": 1523,
+                            "description": "Soft paneer cubes marinated in tikka spices, grilled to perfection, and wrapped in a warm paratha with onions and chutney."
+                        },
+                        {
+                            "id": "R006",
+                            "name": "Cheese Chicken Roll",
+                            "price": 160,
+                            "ratings": 4.6,
+                            "reviews": 1479,
+                            "description": "A fusion delight featuring cheesy chicken chunks with a hint of spice, wrapped in a crispy paratha."
+                        },
+                        {
+                            "id": "R007",
+                            "name": "Fish Tandoori Roll",
+                            "price": 190,
+                            "ratings": 4.7,
+                            "reviews": 1398,
+                            "description": "A Kolkata special featuring tender fish tandoori chunks rolled in a soft paratha with fresh salad and mint chutney."
+                        },
+                        {
+                            "id": "R008",
+                            "name": "Mix Veg Roll",
+                            "price": 130,
+                            "ratings": 4.3,
+                            "reviews": 1250,
+                            "description": "A delicious combination of sautéed vegetables and spices wrapped in a paratha, perfect for vegetarians."
+                        },
+                        {
+                            "id": "R009",
+                            "name": "Spicy Chicken Bhuna Roll",
+                            "price": 175,
+                            "ratings": 4.6,
+                            "reviews": 1335,
+                            "description": "Slow-cooked chicken bhuna, rich in spices and flavors, wrapped in a buttery paratha for an ultimate taste experience."
+                        },
+                        {
+                            "id": "R010",
+                            "name": "Malai Tikka Roll",
+                            "price": 185,
+                            "ratings": 4.8,
+                            "reviews": 1458,
+                            "description": "A creamy and mildly spiced chicken malai tikka roll, offering a melt-in-the-mouth experience with every bite."
+                        }
+                    ],
+
+                    "salads": [{
+                            "id": "S001",
+                            "name": "Kolkata Special Chicken Salad",
+                            "price": 180,
+                            "ratings": 4.7,
+                            "reviews": 1560,
+                            "description": "A refreshing salad with grilled chicken, fresh greens, cucumbers, tomatoes, and a tangy mustard dressing inspired by Kolkata flavors."
+                        },
+                        {
+                            "id": "S002",
+                            "name": "Egg and Veggie Salad",
+                            "price": 140,
+                            "ratings": 4.5,
+                            "reviews": 1340,
+                            "description": "A protein-packed salad featuring boiled eggs, crunchy vegetables, and a light lemon dressing, perfect for a healthy meal."
+                        },
+                        {
+                            "id": "S003",
+                            "name": "Paneer Tikka Salad",
+                            "price": 160,
+                            "ratings": 4.6,
+                            "reviews": 1455,
+                            "description": "Tandoori paneer cubes tossed with fresh lettuce, onions, and a spicy yogurt dressing for a flavorful experience."
+                        },
+                        {
+                            "id": "S004",
+                            "name": "Mutton Kebab Salad",
+                            "price": 210,
+                            "ratings": 4.8,
+                            "reviews": 1675,
+                            "description": "Juicy mutton kebabs sliced and served over a bed of greens, complemented with a spicy mint dressing."
+                        },
+                        {
+                            "id": "S005",
+                            "name": "Spicy Masala Corn Salad",
+                            "price": 120,
+                            "ratings": 4.4,
+                            "reviews": 1250,
+                            "description": "A street-style corn salad mixed with tangy spices, onions, and fresh coriander for a burst of flavors."
+                        },
+                        {
+                            "id": "S006",
+                            "name": "Fish Tandoori Salad",
+                            "price": 220,
+                            "ratings": 4.7,
+                            "reviews": 1389,
+                            "description": "Grilled fish tandoori fillets served with crunchy vegetables and a zesty lime dressing for a refreshing meal."
+                        },
+                        {
+                            "id": "S007",
+                            "name": "Classic Green Salad",
+                            "price": 110,
+                            "ratings": 4.2,
+                            "reviews": 1130,
+                            "description": "A simple yet fresh mix of lettuce, cucumbers, tomatoes, and onions, drizzled with olive oil and herbs."
+                        },
+                        {
+                            "id": "S008",
+                            "name": "Kolkata Chaat Salad",
+                            "price": 150,
+                            "ratings": 4.6,
+                            "reviews": 1405,
+                            "description": "A fusion of Kolkata street food flavors, featuring crispy sev, potatoes, chickpeas, and tangy tamarind dressing."
+                        },
+                        {
+                            "id": "S009",
+                            "name": "Sprout and Moong Dal Salad",
+                            "price": 130,
+                            "ratings": 4.5,
+                            "reviews": 1280,
+                            "description": "A nutritious and protein-rich salad with sprouted moong dal, chopped vegetables, and a hint of lemon."
+                        },
+                        {
+                            "id": "S010",
+                            "name": "Beetroot and Yogurt Salad",
+                            "price": 135,
+                            "ratings": 4.3,
+                            "reviews": 1189,
+                            "description": "A cooling beetroot and yogurt salad with a mild spice kick, perfect for a refreshing side dish."
+                        }
+                    ],
+                    "muglai": [{
+                            "id": "M001",
+                            "name": "Mughlai Chicken Korma",
+                            "price": 320,
+                            "ratings": 4.8,
+                            "reviews": 1890,
+                            "description": "A rich and creamy Mughlai-style chicken korma, slow-cooked with aromatic spices, cashew paste, and yogurt for a royal taste."
+                        },
+                        {
+                            "id": "M002",
+                            "name": "Mutton Rogan Josh",
+                            "price": 350,
+                            "ratings": 4.7,
+                            "reviews": 1750,
+                            "description": "Tender mutton pieces cooked in a flavorful, mildly spicy tomato-based gravy with a hint of saffron and Kashmiri red chilies."
+                        },
+                        {
+                            "id": "M003",
+                            "name": "Shahi Paneer",
+                            "price": 280,
+                            "ratings": 4.6,
+                            "reviews": 1605,
+                            "description": "Soft paneer cubes simmered in a rich, creamy, and mildly spiced tomato-cashew gravy, fit for royalty."
+                        },
+                        {
+                            "id": "M004",
+                            "name": "Murgh Musallam",
+                            "price": 400,
+                            "ratings": 4.9,
+                            "reviews": 1930,
+                            "description": "A whole chicken marinated in exotic Mughlai spices, slow-cooked in a flavorful, nutty, and creamy gravy for a regal experience."
+                        },
+                        {
+                            "id": "M005",
+                            "name": "Mughlai Paratha",
+                            "price": 200,
+                            "ratings": 4.5,
+                            "reviews": 1420,
+                            "description": "A delicious, crispy, and stuffed paratha filled with minced meat, eggs, and spices, served with tangy chutney."
+                        },
+                        {
+                            "id": "M006",
+                            "name": "Nawabi Pulao",
+                            "price": 330,
+                            "ratings": 4.7,
+                            "reviews": 1685,
+                            "description": "A fragrant Mughlai-style rice dish made with long-grain Basmati rice, saffron, dry fruits, and mild spices."
+                        },
+                        {
+                            "id": "M007",
+                            "name": "Chicken Reshmi Kebab",
+                            "price": 270,
+                            "ratings": 4.6,
+                            "reviews": 1500,
+                            "description": "Soft and juicy chicken kebabs made with cream, cashew paste, and mild spices, grilled to perfection."
+                        },
+                        {
+                            "id": "M008",
+                            "name": "Mutton Galouti Kebab",
+                            "price": 380,
+                            "ratings": 4.8,
+                            "reviews": 1800,
+                            "description": "Melt-in-the-mouth mutton kebabs made with a rich blend of Mughlai spices, best enjoyed with paratha or naan."
+                        },
+                        {
+                            "id": "M009",
+                            "name": "Badami Gosht",
+                            "price": 360,
+                            "ratings": 4.7,
+                            "reviews": 1650,
+                            "description": "A royal Mughlai delicacy featuring tender mutton cooked in a luscious almond-based gravy with exotic spices."
+                        },
+                        {
+                            "id": "M010",
+                            "name": "Malai Kofta",
+                            "price": 290,
+                            "ratings": 4.5,
+                            "reviews": 1480,
+                            "description": "Soft, creamy koftas made from paneer and potatoes, served in a rich, velvety Mughlai-style gravy."
+                        }
+                    ]
+                }
+
+
+                ,
+                {
+                    "id": "BRY002",
+                    "price": 349,
+                    "price_two": 365,
+                    "restaurant_name": "Nizam’s Delight",
+                    "ratings": 4.6,
+                    "ratings_count": "4.8k",
+                    "image": "/Biryani_2.jpg",
+                    "delivery_time": "35-45 mins",
+                    "food_name": "Chicken Biryani - Juicy chicken pieces layered with fragrant basmati rice",
+                    "area_name": "Thakurpukur, Kolkata",
+                    "biryani": [{
+                            "id": "KB001A",
+                            "name": "Royal Awadhi Biryani",
+                            "price": 320,
+                            "ratings": 4.5,
+                            "reviews": 1345,
+                            "description": "A regal blend of fragrant basmati rice, tender mutton, and a secret mix of spices, cooked in traditional dum style for an authentic Awadhi taste."
+                        },
+                        {
+                            "id": "KB002B",
+                            "name": "Kolkata Special Chicken Biryani",
+                            "price": 280,
+                            "ratings": 4.7,
+                            "reviews": 1987,
+                            "description": "A signature dish of Kolkata, this biryani features aromatic rice, succulent chicken, and a perfectly cooked potato, infused with delicate Mughlai flavors."
+                        },
+                        {
+                            "id": "KB003C",
+                            "name": "Mughlai Mutton Biryani",
+                            "price": 350,
+                            "ratings": 4.6,
+                            "reviews": 1623,
+                            "description": "Rich and flavorful, this mutton biryani is slow-cooked with saffron-infused rice, juicy mutton pieces, and an exquisite blend of royal spices."
+                        },
+                        {
+                            "id": "KB004D",
+                            "name": "Handi Chicken Biryani",
+                            "price": 260,
+                            "ratings": 4.4,
+                            "reviews": 1140,
+                            "description": "Prepared in an earthen pot, this biryani offers a rustic taste with juicy chicken, fragrant rice, and a smoky aroma that lingers delightfully."
+                        },
+                        {
+                            "id": "KB005E",
+                            "name": "Nizam's Special Beef Biryani",
+                            "price": 300,
+                            "ratings": 4.3,
+                            "reviews": 980,
+                            "description": "A rich, flavorful biryani made with tender beef pieces, slow-cooked to perfection with aromatic rice and a symphony of traditional spices."
+                        },
+                        {
+                            "id": "KB006F",
+                            "name": "Bengali Prawn Biryani",
+                            "price": 380,
+                            "ratings": 4.8,
+                            "reviews": 1450,
+                            "description": "A seafood delight, this prawn biryani blends the sweetness of fresh prawns with the bold spices of Kolkata's biryani tradition."
+                        },
+                        {
+                            "id": "KB007G",
+                            "name": "Hyderabadi Biryani (Kolkata Style)",
+                            "price": 340,
+                            "ratings": 4.6,
+                            "reviews": 1560,
+                            "description": "A fusion of Hyderabadi and Kolkata biryani styles, featuring flavorful rice, juicy mutton, and a unique spice blend for an unforgettable taste."
+                        },
+                        {
+                            "id": "KB008H",
+                            "name": "Reshmi Chicken Biryani",
+                            "price": 290,
+                            "ratings": 4.5,
+                            "reviews": 1250,
+                            "description": "Creamy, succulent chicken pieces cooked with saffron-infused rice, topped with caramelized onions and a hint of rose water for a royal touch."
+                        },
+                        {
+                            "id": "KB009I",
+                            "name": "Egg Biryani",
+                            "price": 230,
+                            "ratings": 4.2,
+                            "reviews": 870,
+                            "description": "A budget-friendly yet flavorful biryani, featuring perfectly spiced eggs, fragrant rice, and a balanced mix of traditional Kolkata spices."
+                        },
+                        {
+                            "id": "KB010J",
+                            "name": "Vegetable Dum Biryani",
+                            "price": 250,
+                            "ratings": 4.0,
+                            "reviews": 740,
+                            "description": "A delightful vegetarian option, cooked with seasonal vegetables, aromatic rice, and a carefully curated blend of traditional spices."
+                        }
+                    ]
+                },
+                {
+                    "id": "BRY003",
+                    "price": 399,
+                    "price_two": 420,
+                    "restaurant_name": "Biryani House",
+                    "ratings": 4.7,
+                    "ratings_count": "6.2k",
+                    "image": "/Biryani_3.jpg",
+                    "delivery_time": "40-50 mins",
+                    "food_name": "Mutton Biryani - Succulent mutton cooked in saffron-infused rice",
+                    "area_name": "Joka, Kolkata"
+                },
+                {
+                    "id": "BRY004",
+                    "price": 279,
+                    "price_two": 290,
+                    "restaurant_name": "Biryani Junction",
+                    "ratings": 4.4,
+                    "ratings_count": "3.9k",
+                    "image": "/Biryani_4.png",
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Egg Biryani - Soft-boiled eggs simmered in rich, spicy rice",
+                    "area_name": "Garia, Kolkata"
+                },
+                {
+                    "id": "BRY005",
+                    "price": 319,
+                    "price_two": 335,
+                    "restaurant_name": "Andhra Flavors",
+                    "ratings": 4.6,
+                    "ratings_count": "4.5k",
+                    "image": "/Biryani_5.png",
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Andhra Spicy Biryani - Fiery blend of Andhra spices and tender meat",
+                    "area_name": "Salt Lake, Kolkata"
+                },
+                {
+                    "id": "BRY006",
+                    "price": 269,
+                    "price_two": 285,
+                    "restaurant_name": "Flavors of Mughlai",
+                    "ratings": 4.3,
+                    "ratings_count": "3.7k",
+                    "image": "/Biryani_6.jpg",
+                    "delivery_time": "35-45 mins",
+                    "food_name": "Mughlai Biryani - Rich and creamy biryani with dry fruits and saffron",
+                    "area_name": "Dum Dum, Kolkata"
+                },
+                {
+                    "id": "BRY007",
+                    "price": 359,
+                    "price_two": 375,
+                    "restaurant_name": "Kolkata Feast",
+                    "ratings": 4.7,
+                    "ratings_count": "5.8k",
+                    "image": "/Biryani_7.jpg",
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Kolkata Biryani - Unique flavor with potatoes and aromatic ghee",
+                    "area_name": "New Town, Kolkata"
+                },
+                {
+                    "id": "BRY008",
+                    "price": 289,
+                    "price_two": 300,
+                    "restaurant_name": "Malabar Kitchen",
+                    "ratings": 4.5,
+                    "ratings_count": "4.2k",
+                    "image": "/Biryani_8.jpg",
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Malabar Biryani - Kerala-style biryani with coconut and fragrant spices",
+                    "area_name": "Baguiati, Kolkata"
+                },
+                {
+                    "id": "BRY009",
+                    "price": 389,
+                    "price_two": 405,
+                    "restaurant_name": "Deccan Delights",
+                    "ratings": 4.8,
+                    "ratings_count": "6.9k",
+                    "image": "/Biryani_9.jpg",
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Dindigul Biryani - Spicy and tangy biryani with seeraga samba rice",
+                    "area_name": "Tollygunge, Kolkata"
+                },
+                {
+                    "id": "BRY010",
+                    "price": 299,
+                    "price_two": 315,
+                    "restaurant_name": "Punjabi Tadka",
+                    "ratings": 4.5,
+                    "ratings_count": "4.6k",
+                    "image": "/Biryani_10.jpg",
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Punjabi Chicken Biryani - Flavor-packed chicken biryani with desi ghee",
+                    "area_name": "Rajarhat, Kolkata"
+                },
+                {
+                    "id": "BRY011",
+                    "price": 289,
+                    "price_two": 300,
+                    "restaurant_name": "Royal Biryani House",
+                    "ratings": 4.8,
+                    "ratings_count": "7.1k",
+                    "image": "/Biryani_11.jpg",
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Awadhi Biryani - A delicate blend of saffron-infused basmati rice and slow-cooked meat",
+                    "area_name": "Howrah, Kolkata"
+                },
+                {
+                    "id": "BRY012",
+                    "price": 319,
+                    "price_two": 335,
+                    "restaurant_name": "Spice Kingdom",
+                    "ratings": 4.6,
+                    "ratings_count": "4.9k",
+                    "image": "/Biryani_12.jpg",
+                    "delivery_time": "35-45 mins",
+                    "food_name": "Bombay Biryani - A tangy and mildly spicy biryani with fried potatoes and dry fruits",
+                    "area_name": "Ballygunge, Kolkata"
+                },
+                {
+                    "id": "BRY013",
+                    "price": 279,
+                    "price_two": 290,
+                    "restaurant_name": "Nawabi Feast",
+                    "ratings": 4.5,
+                    "ratings_count": "4.3k",
+                    "image": "/Biryani_13.jpg",
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Shahi Biryani - Royal Mughlai biryani cooked with aromatic spices and saffron",
+                    "area_name": "Lake Town, Kolkata"
+                },
+                {
+                    "id": "BRY014",
+                    "price": 349,
+                    "price_two": 365,
+                    "restaurant_name": "South Spice Delight",
+                    "ratings": 4.7,
+                    "ratings_count": "5.6k",
+                    "image": "/Biryani_14.jpg",
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Chettinad Biryani - Fiery and flavorful biryani with a strong blend of South Indian spices",
+                    "area_name": "Sealdah, Kolkata"
+                },
+                {
+                    "id": "BRY015",
+                    "price": 329,
+                    "price_two": 345,
+                    "restaurant_name": "Coastal Treat",
+                    "ratings": 4.4,
+                    "ratings_count": "3.8k",
+                    "image": "/Biryani_15.jpg",
+                    "delivery_time": "40-50 mins",
+                    "food_name": "Prawn Biryani - Juicy prawns cooked in fragrant coconut-infused rice",
+                    "area_name": "Ultadanga, Kolkata"
+                },
+                {
+                    "id": "BRY016",
+                    "price": 299,
+                    "price_two": 315,
+                    "restaurant_name": "Heritage Flavors",
+                    "ratings": 4.6,
+                    "ratings_count": "4.7k",
+                    "image": "/Biryani_16.jpg",
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Thalassery Biryani - Kerala-style biryani with short-grain rice and mild spices",
+                    "area_name": "Esplanade, Kolkata"
+                },
+                {
+                    "id": "BRY017",
+                    "price": 359,
+                    "price_two": 375,
+                    "restaurant_name": "Tandoor Delights",
+                    "ratings": 4.8,
+                    "ratings_count": "5.9k",
+                    "image": "/Biryani_17.png",
+                    "delivery_time": "35-45 mins",
+                    "food_name": "Tandoori Biryani - A smoky, tandoor-cooked biryani with rich, spicy flavors",
+                    "area_name": "Kankurgachi, Kolkata"
+                },
+                {
+                    "id": "BRY018",
+                    "price": 319,
+                    "price_two": 335,
+                    "restaurant_name": "Chandni Chowk Biryani",
+                    "ratings": 4.5,
+                    "ratings_count": "4.5k",
+                    "image": "/Biryani_18.jpg",
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Delhi Mughlai Biryani - A rich and creamy biryani cooked in traditional Mughlai style",
+                    "area_name": "Shyambazar, Kolkata"
+                },
+                {
+                    "id": "BRY019",
+                    "price": 269,
+                    "price_two": 285,
+                    "restaurant_name": "Grand Punjab Dhaba",
+                    "ratings": 4.3,
+                    "ratings_count": "3.6k",
+                    "image": "/Biryani_19.webp",
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Paneer Tikka Biryani - A delicious vegetarian biryani loaded with smoky paneer tikka",
+                    "area_name": "Park Circus, Kolkata"
+                },
+                {
+                    "id": "BRY020",
+                    "price": 349,
+                    "price_two": 365,
+                    "restaurant_name": "Flavors of Kashmir",
+                    "ratings": 4.7,
+                    "ratings_count": "5.5k",
+                    "image": "/Biryani_20.jpg",
+                    "delivery_time": "40-50 mins",
+                    "food_name": "Kashmiri Biryani - A unique biryani with dried fruits, nuts, and fragrant saffron",
+                    "area_name": "Barasat, Kolkata"
+                }
+            ]
+
+        }, {
+            "name": "burger",
+            "image": "/Burger.jpg",
+            "id": "6ab4",
+            "tagline": "Juicy, cheesy, and packed with deliciousness!",
+            "items": [{
+                    "id": "burger01",
+                    "image": "/burger_1.jpg",
+                    "price": 199,
+                    "restaurant_name": "Burger Haven",
+                    "ratings": 4.2,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Cheese Loaded Burger",
+                    "area_name": "Mumbai, Maharashtra"
+                },
+                {
+                    "id": "burger02",
+                    "image": "/burger_2.jpg",
+                    "price": 229,
+                    "restaurant_name": "Big Bite",
+                    "ratings": 4.3,
+                    "delivery_time": "30-40 mins",
+                    "food_name": "BBQ Chicken Burger",
+                    "area_name": "Bangalore, Karnataka"
+                },
+                {
+                    "id": "burger03",
+                    "image": "/burger_3.jpg",
+                    "price": 179,
+                    "restaurant_name": "Grill Master",
+                    "ratings": 4.1,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Classic Veg Burger",
+                    "area_name": "Delhi, Delhi"
+                },
+                {
+                    "id": "burger04",
+                    "image": "/burger_4.jpg",
+                    "price": 249,
+                    "restaurant_name": "Burger World",
+                    "ratings": 4.4,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Spicy Chicken Burger",
+                    "area_name": "Chennai, Tamil Nadu"
+                },
+                {
+                    "id": "burger05",
+                    "image": "/burger_5.jpg",
+                    "price": 269,
+                    "restaurant_name": "Meat Feast",
+                    "ratings": 4.5,
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Double Patty Lamb Burger",
+                    "area_name": "Hyderabad, Telangana"
+                },
+                {
+                    "id": "burger06",
+                    "image": "/burger_6.jpg",
+                    "price": 199,
+                    "restaurant_name": "Quick Bites",
+                    "ratings": 4.2,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Aloo Tikki Burger",
+                    "area_name": "Kolkata, West Bengal"
+                },
+                {
+                    "id": "burger07",
+                    "image": "/burger_7.jpg",
+                    "price": 279,
+                    "restaurant_name": "Grill House",
+                    "ratings": 4.6,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Peri Peri Chicken Burger",
+                    "area_name": "Pune, Maharashtra"
+                },
+                {
+                    "id": "burger08",
+                    "image": "/burger_9.jpg",
+                    "price": 239,
+                    "restaurant_name": "Crunchy Bites",
+                    "ratings": 4.3,
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Crispy Fish Burger",
+                    "area_name": "Ahmedabad, Gujarat"
+                },
+                {
+                    "id": "burger09",
+                    "image": "/burger_9.jpg",
+                    "price": 189,
+                    "restaurant_name": "Desi Flavors",
+                    "ratings": 4.2,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Paneer Tikka Burger",
+                    "area_name": "Jaipur, Rajasthan"
+                },
+                {
+                    "id": "burger10",
+                    "image": "/burger_10.jpg",
+                    "price": 259,
+                    "restaurant_name": "Street Feast",
+                    "ratings": 4.5,
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Mexican Jalapeno Burger",
+                    "area_name": "Bangalore, Karnataka"
+                }
+            ]
+        }, {
+            "name": "cake",
+            "image": "/Cake.jpg",
+            "id": "84ec",
+            "tagline": "Sweet, fluffy, and perfect for every celebration!",
+            "items": [{
+                    "id": "cake01",
+                    "image": "/cake_1.jpg",
+                    "price": 499,
+                    "restaurant_name": "Sweet Treats",
+                    "ratings": 4.6,
+                    "delivery_time": "40-50 mins",
+                    "food_name": "Chocolate Truffle Cake",
+                    "area_name": "Delhi, Delhi"
+                },
+                {
+                    "id": "cake02",
+                    "image": "/cake_2.jpg",
+                    "price": 399,
+                    "restaurant_name": "Cake Heaven",
+                    "ratings": 4.5,
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Black Forest Cake",
+                    "area_name": "Mumbai, Maharashtra"
+                },
+                {
+                    "id": "cake03",
+                    "image": "/cake_5.jpg",
+                    "price": 459,
+                    "restaurant_name": "The Cake Studio",
+                    "ratings": 4.7,
+                    "delivery_time": "35-45 mins",
+                    "food_name": "Red Velvet Cake",
+                    "area_name": "Bangalore, Karnataka"
+                },
+                {
+                    "id": "cake04",
+                    "image": "/cake_4.jpg",
+                    "price": 429,
+                    "restaurant_name": "Delightful Bakes",
+                    "ratings": 4.4,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Vanilla Buttercream Cake",
+                    "area_name": "Hyderabad, Telangana"
+                },
+                {
+                    "id": "cake05",
+                    "image": "/cake_7.jpg",
+                    "price": 499,
+                    "restaurant_name": "Bake Bliss",
+                    "ratings": 4.6,
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Strawberry Cheesecake",
+                    "area_name": "Pune, Maharashtra"
+                },
+                {
+                    "id": "cake06",
+                    "image": "/cake_6.jpg",
+                    "price": 379,
+                    "restaurant_name": "Pastry Palace",
+                    "ratings": 4.3,
+                    "delivery_time": "35-45 mins",
+                    "food_name": "Pineapple Cake",
+                    "area_name": "Chennai, Tamil Nadu"
+                },
+                {
+                    "id": "cake07",
+                    "image": "/cake_3.jpg",
+                    "price": 419,
+                    "restaurant_name": "Choco Fantasy",
+                    "ratings": 4.7,
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Choco Lava Cake",
+                    "area_name": "Kolkata, West Bengal"
+                },
+                {
+                    "id": "cake08",
+                    "image": "/cake_8.jpg",
+                    "price": 399,
+                    "restaurant_name": "The Dessert Corner",
+                    "ratings": 4.5,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Coffee Walnut Cake",
+                    "area_name": "Jaipur, Rajasthan"
+                },
+                {
+                    "id": "cake09",
+                    "image": "/cake_9.jpg",
+                    "price": 449,
+                    "restaurant_name": "Gourmet Bakes",
+                    "ratings": 4.8,
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Mango Mousse Cake",
+                    "area_name": "Ahmedabad, Gujarat"
+                },
+                {
+                    "id": "cake10",
+                    "image": "/cake_10.jpg",
+                    "price": 479,
+                    "restaurant_name": "Sweet Symphony",
+                    "ratings": 4.6,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Blueberry Cheesecake",
+                    "area_name": "Chandigarh, Punjab"
+                }
+            ]
+        }, {
+            "name": "chinese",
+            "image": "/Chinese.jpg",
+            "id": "c21d",
+            "tagline": "Savory, spicy, and bursting with bold flavors!",
+            "items": [{
+                    "id": "chinese01",
+                    "image": "/chinese_1.jpg",
+                    "price": 249,
+                    "restaurant_name": "Dragon Wok",
+                    "ratings": 4.4,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Schezwan Noodles",
+                    "area_name": "Delhi, Delhi"
+                },
+                {
+                    "id": "chinese02",
+                    "image": "/chinese_2.jpg",
+                    "price": 199,
+                    "restaurant_name": "Chopstick House",
+                    "ratings": 4.3,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Veg Manchurian",
+                    "area_name": "Mumbai, Maharashtra"
+                },
+                {
+                    "id": "chinese03",
+                    "image": "/chinese_3.jpg",
+                    "price": 299,
+                    "restaurant_name": "Beijing Bites",
+                    "ratings": 4.5,
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Chili Chicken",
+                    "area_name": "Bangalore, Karnataka"
+                },
+                {
+                    "id": "chinese04",
+                    "image": "/chinese_4.jpg",
+                    "price": 189,
+                    "restaurant_name": "Golden Dragon",
+                    "ratings": 4.2,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Spring Rolls",
+                    "area_name": "Chennai, Tamil Nadu"
+                },
+                {
+                    "id": "chinese05",
+                    "image": "/chinese_5.jpg",
+                    "price": 349,
+                    "restaurant_name": "Oriental Delight",
+                    "ratings": 4.6,
+                    "delivery_time": "35-45 mins",
+                    "food_name": "Kung Pao Chicken",
+                    "area_name": "Hyderabad, Telangana"
+                },
+                {
+                    "id": "chinese06",
+                    "image": "/chinese_6.jpg",
+                    "price": 219,
+                    "restaurant_name": "Asian Fusion",
+                    "ratings": 4.3,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Hakka Noodles",
+                    "area_name": "Pune, Maharashtra"
+                },
+                {
+                    "id": "chinese07",
+                    "image": "/chinese_7.jpg",
+                    "price": 259,
+                    "restaurant_name": "Shanghai Express",
+                    "ratings": 4.4,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Fried Rice",
+                    "area_name": "Kolkata, West Bengal"
+                },
+                {
+                    "id": "chinese08",
+                    "image": "/chinese_8.jpg",
+                    "price": 279,
+                    "restaurant_name": "The Wok Place",
+                    "ratings": 4.5,
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Hot and Sour Soup",
+                    "area_name": "Jaipur, Rajasthan"
+                },
+                {
+                    "id": "chinese09",
+                    "image": "/chinese_9.jpg",
+                    "price": 199,
+                    "restaurant_name": "Mandarin Kitchen",
+                    "ratings": 4.2,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Dim Sums",
+                    "area_name": "Ahmedabad, Gujarat"
+                },
+                {
+                    "id": "chinese10",
+                    "image": "/chinese_10.jpg",
+                    "price": 329,
+                    "restaurant_name": "Sichuan Spice",
+                    "ratings": 4.7,
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Sichuan Chicken",
+                    "area_name": "Lucknow, Uttar Pradesh"
+                }
+            ]
+        }, {
+            "name": "ice cream",
+            "image": "/Ice_Cream.jpg",
+            "id": "cea9",
+            "tagline": "Cool, creamy, and the ultimate treat!",
+            "items": [{
+                    "id": "icecream01",
+                    "image": "/icecream_1.jpg",
+                    "price": 149,
+                    "restaurant_name": "Frosty Delights",
+                    "ratings": 4.5,
+                    "delivery_time": "15-25 mins",
+                    "food_name": "Chocolate Fudge",
+                    "area_name": "Delhi, Delhi"
+                },
+                {
+                    "id": "icecream02",
+                    "image": "/icecream_2.jpg",
+                    "price": 129,
+                    "restaurant_name": "Cool Treats",
+                    "ratings": 4.4,
+                    "delivery_time": "10-20 mins",
+                    "food_name": "Vanilla Bean",
+                    "area_name": "Mumbai, Maharashtra"
+                },
+                {
+                    "id": "icecream03",
+                    "image": "/icecream_3.jpg",
+                    "price": 179,
+                    "restaurant_name": "Scoop Heaven",
+                    "ratings": 4.6,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Strawberry Swirl",
+                    "area_name": "Bangalore, Karnataka"
+                },
+                {
+                    "id": "icecream04",
+                    "image": "/icecream_4.jpg",
+                    "price": 159,
+                    "restaurant_name": "Gelato House",
+                    "ratings": 4.3,
+                    "delivery_time": "15-25 mins",
+                    "food_name": "Mango Tango",
+                    "area_name": "Chennai, Tamil Nadu"
+                },
+                {
+                    "id": "icecream05",
+                    "image": "/icecream_5.jpg",
+                    "price": 199,
+                    "restaurant_name": "Frozen Bliss",
+                    "ratings": 4.7,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Caramel Crunch",
+                    "area_name": "Hyderabad, Telangana"
+                },
+                {
+                    "id": "icecream06",
+                    "image": "/icecream_6.jpg",
+                    "price": 139,
+                    "restaurant_name": "Chill & Scoop",
+                    "ratings": 4.4,
+                    "delivery_time": "10-20 mins",
+                    "food_name": "Mint Chocolate Chip",
+                    "area_name": "Pune, Maharashtra"
+                },
+                {
+                    "id": "icecream07",
+                    "image": "/icecream_7.jpg",
+                    "price": 169,
+                    "restaurant_name": "Sweet Freeze",
+                    "ratings": 4.5,
+                    "delivery_time": "15-25 mins",
+                    "food_name": "Butterscotch Delight",
+                    "area_name": "Kolkata, West Bengal"
+                },
+                {
+                    "id": "icecream08",
+                    "image": "/icecream_8.jpg",
+                    "price": 189,
+                    "restaurant_name": "The Ice Cream Lab",
+                    "ratings": 4.6,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Blueberry Cheesecake",
+                    "area_name": "Jaipur, Rajasthan"
+                },
+                {
+                    "id": "icecream09",
+                    "image": "/icecream_9.jpg",
+                    "price": 129,
+                    "restaurant_name": "Creamy Bites",
+                    "ratings": 4.3,
+                    "delivery_time": "15-25 mins",
+                    "food_name": "Cookie & Cream",
+                    "area_name": "Ahmedabad, Gujarat"
+                },
+                {
+                    "id": "icecream10",
+                    "image": "/icecream_10.jpg",
+                    "price": 219,
+                    "restaurant_name": "Sundae Station",
+                    "ratings": 4.8,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Nutty Brownie",
+                    "area_name": "Lucknow, Uttar Pradesh"
+                }
+            ]
+        }, {
+            "name": "kabab",
+            "image": "/Kebab.jpg",
+            "id": "4a98",
+            "tagline": "Smoky, spicy, and straight from the grill!",
+            "items": [{
+                    "id": "kebab01",
+                    "image": "/kebab_1.jpg",
+                    "price": 249,
+                    "restaurant_name": "Grill House",
+                    "ratings": 4.6,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Chicken Seekh Kebab",
+                    "area_name": "Delhi, Delhi"
+                },
+                {
+                    "id": "kebab02",
+                    "image": "/kebab_2.jpg",
+                    "price": 229,
+                    "restaurant_name": "Tandoori Nights",
+                    "ratings": 4.5,
+                    "delivery_time": "15-25 mins",
+                    "food_name": "Mutton Shami Kebab",
+                    "area_name": "Mumbai, Maharashtra"
+                },
+                {
+                    "id": "kebab03",
+                    "image": "/kebab_3.jpg",
+                    "price": 279,
+                    "restaurant_name": "Flame & Skewers",
+                    "ratings": 4.7,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Galouti Kebab",
+                    "area_name": "Bangalore, Karnataka"
+                },
+                {
+                    "id": "kebab04",
+                    "image": "/kebab_4.jpg",
+                    "price": 199,
+                    "restaurant_name": "Kebab Factory",
+                    "ratings": 4.4,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Hara Bhara Kebab",
+                    "area_name": "Chennai, Tamil Nadu"
+                },
+                {
+                    "id": "kebab05",
+                    "image": "/kebab_5.jpg",
+                    "price": 299,
+                    "restaurant_name": "Royal Tandoor",
+                    "ratings": 4.8,
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Boti Kebab",
+                    "area_name": "Hyderabad, Telangana"
+                },
+                {
+                    "id": "kebab06",
+                    "image": "/kebab_6.jpg",
+                    "price": 239,
+                    "restaurant_name": "Charcoal Grill",
+                    "ratings": 4.5,
+                    "delivery_time": "15-25 mins",
+                    "food_name": "Paneer Tikka Kebab",
+                    "area_name": "Pune, Maharashtra"
+                },
+                {
+                    "id": "kebab07",
+                    "image": "/kebab_7.jpg",
+                    "price": 269,
+                    "restaurant_name": "Spice & Skewers",
+                    "ratings": 4.6,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Afghani Kebab",
+                    "area_name": "Kolkata, West Bengal"
+                },
+                {
+                    "id": "kebab08",
+                    "image": "/kebab_8.jpg",
+                    "price": 259,
+                    "restaurant_name": "Grill & Chill",
+                    "ratings": 4.7,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Reshmi Kebab",
+                    "area_name": "Jaipur, Rajasthan"
+                },
+                {
+                    "id": "kebab09",
+                    "image": "/kebab_9.jpg",
+                    "price": 219,
+                    "restaurant_name": "Tandoor Treats",
+                    "ratings": 4.4,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Soya Chaap Kebab",
+                    "area_name": "Ahmedabad, Gujarat"
+                },
+                {
+                    "id": "kebab10",
+                    "image": "/kebab_10.jpg",
+                    "price": 289,
+                    "restaurant_name": "Smoky Delight",
+                    "ratings": 4.8,
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Lamb Seekh Kebab",
+                    "area_name": "Lucknow, Uttar Pradesh"
+                }
+            ]
+        }, {
+            "name": "momo",
+            "image": "/Momo.jpg",
+            "id": "b613",
+            "tagline": "Steamed, fried, or juicy—pure dumpling delight!",
+            "items": [{
+                    "id": "momo01",
+                    "image": "/momo_1.jpg",
+                    "price": 149,
+                    "restaurant_name": "Momo Junction",
+                    "ratings": 4.5,
+                    "delivery_time": "15-25 mins",
+                    "food_name": "Steamed Chicken Momos",
+                    "area_name": "Delhi, Delhi"
+                },
+                {
+                    "id": "momo02",
+                    "image": "/momo_2.jpg",
+                    "price": 129,
+                    "restaurant_name": "Momo Delight",
+                    "ratings": 4.4,
+                    "delivery_time": "10-20 mins",
+                    "food_name": "Veg Momos",
+                    "area_name": "Mumbai, Maharashtra"
+                },
+                {
+                    "id": "momo03",
+                    "image": "/momo_3.jpg",
+                    "price": 179,
+                    "restaurant_name": "The Momo Hub",
+                    "ratings": 4.6,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Paneer Momos",
+                    "area_name": "Bangalore, Karnataka"
+                },
+                {
+                    "id": "momo04",
+                    "image": "/momo_4.jpg",
+                    "price": 159,
+                    "restaurant_name": "Dumpling House",
+                    "ratings": 4.3,
+                    "delivery_time": "15-25 mins",
+                    "food_name": "Fried Momos",
+                    "area_name": "Chennai, Tamil Nadu"
+                },
+                {
+                    "id": "momo05",
+                    "image": "/momo_5.jpg",
+                    "price": 199,
+                    "restaurant_name": "Everest Momos",
+                    "ratings": 4.7,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Cheese Corn Momos",
+                    "area_name": "Hyderabad, Telangana"
+                },
+                {
+                    "id": "momo06",
+                    "image": "/momo_6.jpg",
+                    "price": 139,
+                    "restaurant_name": "Tibetan Treats",
+                    "ratings": 4.4,
+                    "delivery_time": "10-20 mins",
+                    "food_name": "Schezwan Momos",
+                    "area_name": "Pune, Maharashtra"
+                },
+                {
+                    "id": "momo07",
+                    "image": "/momo_7.jpg",
+                    "price": 169,
+                    "restaurant_name": "Himalayan Bites",
+                    "ratings": 4.5,
+                    "delivery_time": "15-25 mins",
+                    "food_name": "Tandoori Momos",
+                    "area_name": "Kolkata, West Bengal"
+                },
+                {
+                    "id": "momo08",
+                    "image": "/momo_8.jpg",
+                    "price": 189,
+                    "restaurant_name": "Momo King",
+                    "ratings": 4.6,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Prawn Momos",
+                    "area_name": "Jaipur, Rajasthan"
+                },
+                {
+                    "id": "momo09",
+                    "image": "/momo_9.jpg",
+                    "price": 129,
+                    "restaurant_name": "Little Tibet",
+                    "ratings": 4.3,
+                    "delivery_time": "15-25 mins",
+                    "food_name": "Wheat Momos",
+                    "area_name": "Ahmedabad, Gujarat"
+                },
+                {
+                    "id": "momo10",
+                    "image": "/momo_10.jpg",
+                    "price": 219,
+                    "restaurant_name": "Momo Magic",
+                    "ratings": 4.8,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Chocolate Momos",
+                    "area_name": "Lucknow, Uttar Pradesh"
+                }
+            ]
+        }, {
+            "name": "north indian",
+            "image": "/North_Indian.jpg",
+            "id": "8374",
+            "tagline": "Rich, creamy, and packed with royal flavors!",
+            "items": [{
+                    "id": "northindian01",
+                    "image": "/northindian_1.jpg",
+                    "price": 299,
+                    "restaurant_name": "Royal Tandoor",
+                    "ratings": 4.6,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Butter Chicken",
+                    "area_name": "Delhi, Delhi"
+                },
+                {
+                    "id": "northindian02",
+                    "image": "/northindian_2.jpg",
+                    "price": 249,
+                    "restaurant_name": "Spice of India",
+                    "ratings": 4.5,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Paneer Tikka",
+                    "area_name": "Mumbai, Maharashtra"
+                },
+                {
+                    "id": "northindian03",
+                    "image": "/northindian_3.jpg",
+                    "price": 279,
+                    "restaurant_name": "Flavors of Punjab",
+                    "ratings": 4.7,
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Dal Makhani",
+                    "area_name": "Bangalore, Karnataka"
+                },
+                {
+                    "id": "northindian04",
+                    "image": "/northindian_4.jpg",
+                    "price": 199,
+                    "restaurant_name": "Desi Zaika",
+                    "ratings": 4.4,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Chole Bhature",
+                    "area_name": "Chennai, Tamil Nadu"
+                },
+                {
+                    "id": "northindian05",
+                    "image": "/northindian_5.jpg",
+                    "price": 329,
+                    "restaurant_name": "Tandoori Treats",
+                    "ratings": 4.8,
+                    "delivery_time": "35-45 mins",
+                    "food_name": "Rogan Josh",
+                    "area_name": "Hyderabad, Telangana"
+                },
+                {
+                    "id": "northindian06",
+                    "image": "/northindian_6.jpg",
+                    "price": 229,
+                    "restaurant_name": "The Curry House",
+                    "ratings": 4.5,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Shahi Paneer",
+                    "area_name": "Pune, Maharashtra"
+                },
+                {
+                    "id": "northindian07",
+                    "image": "/northindian_7.jpg",
+                    "price": 259,
+                    "restaurant_name": "Punjab Grill",
+                    "ratings": 4.6,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Amritsari Kulcha",
+                    "area_name": "Kolkata, West Bengal"
+                },
+                {
+                    "id": "northindian08",
+                    "image": "/northindian_8.jpg",
+                    "price": 279,
+                    "restaurant_name": "Masala Junction",
+                    "ratings": 4.7,
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Bhuna Gosht",
+                    "area_name": "Jaipur, Rajasthan"
+                },
+                {
+                    "id": "northindian09",
+                    "image": "/northindian_9.jpg",
+                    "price": 199,
+                    "restaurant_name": "Mughlai Zaika",
+                    "ratings": 4.4,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Kadai Chicken",
+                    "area_name": "Ahmedabad, Gujarat"
+                },
+                {
+                    "id": "northindian10",
+                    "image": "/northindian_10.jpg",
+                    "price": 349,
+                    "restaurant_name": "The Grand Feast",
+                    "ratings": 4.8,
+                    "delivery_time": "35-45 mins",
+                    "food_name": "Mutton Korma",
+                    "area_name": "Lucknow, Uttar Pradesh"
+                }
+            ]
+        }, {
+            "name": "paratha",
+            "image": "/Paratha.jpg",
+            "id": "a6d1",
+            "tagline": "Crispy, buttery, and stuffed with goodness!",
+            "items": [{
+                    "id": "paratha01",
+                    "image": "/paratha_1.jpg",
+                    "price": 149,
+                    "restaurant_name": "Desi Paratha House",
+                    "ratings": 4.5,
+                    "delivery_time": "15-25 mins",
+                    "food_name": "Aloo Paratha",
+                    "area_name": "Delhi, Delhi"
+                },
+                {
+                    "id": "paratha02",
+                    "image": "/paratha_2.jpg",
+                    "price": 169,
+                    "restaurant_name": "Punjabi Tandoor",
+                    "ratings": 4.4,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Paneer Paratha",
+                    "area_name": "Mumbai, Maharashtra"
+                },
+                {
+                    "id": "paratha03",
+                    "image": "/paratha_3.jpg",
+                    "price": 179,
+                    "restaurant_name": "Tandoori Junction",
+                    "ratings": 4.6,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Gobi Paratha",
+                    "area_name": "Bangalore, Karnataka"
+                },
+                {
+                    "id": "paratha04",
+                    "image": "/paratha_4.jpg",
+                    "price": 159,
+                    "restaurant_name": "The Paratha Corner",
+                    "ratings": 4.3,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Methi Paratha",
+                    "area_name": "Chennai, Tamil Nadu"
+                },
+                {
+                    "id": "paratha05",
+                    "image": "/paratha_5.jpg",
+                    "price": 189,
+                    "restaurant_name": "Zaika-e-Punjab",
+                    "ratings": 4.7,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Cheese Paratha",
+                    "area_name": "Hyderabad, Telangana"
+                },
+                {
+                    "id": "paratha06",
+                    "image": "/paratha_6.jpg",
+                    "price": 169,
+                    "restaurant_name": "Bite of Punjab",
+                    "ratings": 4.4,
+                    "delivery_time": "15-25 mins",
+                    "food_name": "Mooli Paratha",
+                    "area_name": "Pune, Maharashtra"
+                },
+                {
+                    "id": "paratha07",
+                    "image": "/paratha_7.jpg",
+                    "price": 199,
+                    "restaurant_name": "Desi Tandoor",
+                    "ratings": 4.5,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Lachha Paratha",
+                    "area_name": "Kolkata, West Bengal"
+                },
+                {
+                    "id": "paratha08",
+                    "image": "/paratha_8.jpg",
+                    "price": 219,
+                    "restaurant_name": "Tandoori Treats",
+                    "ratings": 4.6,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Keema Paratha",
+                    "area_name": "Jaipur, Rajasthan"
+                },
+                {
+                    "id": "paratha09",
+                    "image": "/paratha_9.jpg",
+                    "price": 149,
+                    "restaurant_name": "The Dhaba Delights",
+                    "ratings": 4.3,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Missi Roti",
+                    "area_name": "Ahmedabad, Gujarat"
+                },
+                {
+                    "id": "paratha10",
+                    "image": "/paratha_10.jpg",
+                    "price": 179,
+                    "restaurant_name": "The Grand Paratha",
+                    "ratings": 4.8,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Mughlai Paratha",
+                    "area_name": "Lucknow, Uttar Pradesh"
+                }
+            ]
+        }, {
+            "name": "pizza",
+            "image": "/Pizza.jpg",
+            "id": "9236",
+            "tagline": "Cheesy, crispy, and an all-time favorite!",
+            "items": [{
+                    "id": "pizza01",
+                    "image": "/pizza_1.jpg",
+                    "price": 299,
+                    "restaurant_name": "Pizza Paradise",
+                    "ratings": 4.6,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Margherita Pizza",
+                    "area_name": "Delhi, Delhi"
+                },
+                {
+                    "id": "pizza02",
+                    "image": "/pizza_2.jpg",
+                    "price": 349,
+                    "restaurant_name": "Cheesy Bites",
+                    "ratings": 4.5,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Farmhouse Pizza",
+                    "area_name": "Mumbai, Maharashtra"
+                },
+                {
+                    "id": "pizza03",
+                    "image": "/pizza_3.jpg",
+                    "price": 399,
+                    "restaurant_name": "Italiano Pizzeria",
+                    "ratings": 4.7,
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Pepperoni Pizza",
+                    "area_name": "Bangalore, Karnataka"
+                },
+                {
+                    "id": "pizza04",
+                    "image": "/pizza_4.jpg",
+                    "price": 279,
+                    "restaurant_name": "Tandoori Pizza Co.",
+                    "ratings": 4.4,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Tandoori Paneer Pizza",
+                    "area_name": "Chennai, Tamil Nadu"
+                },
+                {
+                    "id": "pizza05",
+                    "image": "/pizza_5.jpg",
+                    "price": 449,
+                    "restaurant_name": "Mozzarella Magic",
+                    "ratings": 4.8,
+                    "delivery_time": "35-45 mins",
+                    "food_name": "BBQ Chicken Pizza",
+                    "area_name": "Hyderabad, Telangana"
+                },
+                {
+                    "id": "pizza06",
+                    "image": "/pizza_6.jpg",
+                    "price": 329,
+                    "restaurant_name": "Crust & Cheese",
+                    "ratings": 4.5,
+                    "delivery_time": "20-30 mins",
+                    "food_name": "Veggie Supreme Pizza",
+                    "area_name": "Pune, Maharashtra"
+                },
+                {
+                    "id": "pizza07",
+                    "image": "/pizza_7.jpg",
+                    "price": 359,
+                    "restaurant_name": "Slice of Heaven",
+                    "ratings": 4.6,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Mexican Fiesta Pizza",
+                    "area_name": "Kolkata, West Bengal"
+                },
+                {
+                    "id": "pizza08",
+                    "image": "/pizza_8.jpg",
+                    "price": 389,
+                    "restaurant_name": "The Pizza Factory",
+                    "ratings": 4.7,
+                    "delivery_time": "30-40 mins",
+                    "food_name": "Cheese Burst Pizza",
+                    "area_name": "Jaipur, Rajasthan"
+                },
+                {
+                    "id": "pizza09",
+                    "image": "/pizza_9.jpg",
+                    "price": 299,
+                    "restaurant_name": "Flavors of Italy",
+                    "ratings": 4.4,
+                    "delivery_time": "25-35 mins",
+                    "food_name": "Garlic Chicken Pizza",
+                    "area_name": "Ahmedabad, Gujarat"
+                },
+                {
+                    "id": "pizza10",
+                    "image": "/pizza_10.jpg",
+                    "price": 429,
+                    "restaurant_name": "Pizzalicious",
+                    "ratings": 4.8,
+                    "delivery_time": "35-45 mins",
+                    "food_name": "Truffle Mushroom Pizza",
+                    "area_name": "Lucknow, Uttar Pradesh"
+                }
+            ]
+        }, {
+            "id": "SI03",
+            "name": "south indian",
+            "image": "/South_Indian.jpg",
+            "tagline": "Flavors from the South, straight to your plate!"
+        },
+        {
+            "id": "CB04",
+            "name": "chole_bhature",
+            "image": "/Chole_Bhature.jpg",
+            "tagline": "A spicy, crispy delight for your taste buds!"
+        },
+        {
+            "id": "ID05",
+            "name": "idli",
+            "image": "/Idli.jpg",
+            "tagline": "Soft, fluffy, and simply irresistible!"
+        },
+        {
+            "id": "PA06",
+            "name": "pasta",
+            "image": "/Pasta.jpg",
+            "tagline": "A taste of Italy in every twirl!"
+        },
+        {
+            "id": "SH07",
+            "name": "shake",
+            "image": "/Shake.jpg",
+            "tagline": "Sip, chill, and enjoy the creamy goodness!"
+        },
+        {
+            "id": "RL08",
+            "name": "rolls",
+            "image": "/Rolls.jpg",
+            "tagline": "Wrap up your hunger with deliciousness!"
+        }
+    ],
+    "categories2": [{
+            "id": "PZ01",
+            "name": "pizza",
+            "image": "/Pizza.jpg",
+            "tagline": "A slice of happiness in every bite!"
+        },
+        {
+            "id": "PR02",
+            "name": "paratha",
+            "image": "/Paratha.jpg",
+            "tagline": "Crispy, stuffed, and utterly delicious!"
+        },
+        {
+            "id": "SI03",
+            "name": "south indian",
+            "image": "/South_Indian.jpg",
+            "tagline": "Flavors from the South, straight to your plate!"
+        },
+        {
+            "id": "CB04",
+            "name": "chole_bhature",
+            "image": "/Chole_Bhature.jpg",
+            "tagline": "A spicy, crispy delight for your taste buds!"
+        },
+        {
+            "id": "ID05",
+            "name": "idli",
+            "image": "/Idli.jpg",
+            "tagline": "Soft, fluffy, and simply irresistible!"
+        },
+        {
+            "id": "PA06",
+            "name": "pasta",
+            "image": "/Pasta.jpg",
+            "tagline": "A taste of Italy in every twirl!"
+        },
+        {
+            "id": "SH07",
+            "name": "shake",
+            "image": "/Shake.jpg",
+            "tagline": "Sip, chill, and enjoy the creamy goodness!"
+        },
+        {
+            "id": "RL08",
+            "name": "rolls",
+            "image": "/Rolls.jpg",
+            "tagline": "Wrap up your hunger with deliciousness!"
+        },
+        {
+            "id": "CH09",
+            "name": "chinese",
+            "image": "/Chinese.jpg",
+            "tagline": "Wok-tossed perfection in every bite!"
+        },
+        {
+            "id": "IC10",
+            "name": "ice cream",
+            "image": "/Ice_Cream.jpg",
+            "tagline": "Scoop up joy, one bite at a time!"
+        }
+    ],
+    "dineout": [{
+            "id": "SV01",
+            "restaurant_name": "Spice Villa",
+            "review": 4.5,
+            "food_category": "Indian",
+            "food_type": "Veg & Non-Veg",
+            "price": 1200,
+            "address": "123 Main Street, New Delhi",
+            "distance_km": 2.5,
+            "discount": 15,
+            "more": "8",
+            "image": "/dineout_1.jpg"
+        },
+        {
+            "id": "SW02",
+            "restaurant_name": "Sushi World",
+            "review": 4.8,
+            "food_category": "Japanese",
+            "food_type": "Non-Veg",
+            "price": 1800,
+            "address": "45 Sakura Lane, Mumbai",
+            "distance_km": 5.2,
+            "discount": 10,
+            "more": "5",
+            "image": "/dineout_2.jpg"
+        },
+        {
+            "id": "PP03",
+            "restaurant_name": "Pizza Paradise",
+            "review": 4.2,
+            "food_category": "Italian",
+            "food_type": "Veg & Non-Veg",
+            "price": 900,
+            "address": "78 Pepperoni Road, Bangalore",
+            "distance_km": 3.8,
+            "discount": 20,
+            "more": "9",
+            "image": "/dineout_3.jpg"
+        },
+        {
+            "id": "GH04",
+            "restaurant_name": "Grill House",
+            "review": 4.6,
+            "food_category": "Barbecue",
+            "food_type": "Non-Veg",
+            "price": 1500,
+            "address": "34 BBQ Street, Hyderabad",
+            "distance_km": 6.0,
+            "discount": 25,
+            "more": "2",
+            "image": "/dineout_4.jpg"
+        },
+        {
+            "id": "TN05",
+            "restaurant_name": "Tandoori Nights",
+            "review": 4.3,
+            "food_category": "Indian",
+            "food_type": "Veg & Non-Veg",
+            "price": 1100,
+            "address": "98 Spice Road, Pune",
+            "distance_km": 4.5,
+            "discount": 18,
+            "more": "10",
+            "image": "/dineout_5.jpg"
+        },
+        {
+            "id": "BH06",
+            "restaurant_name": "Burger Hub",
+            "review": 4.1,
+            "food_category": "Fast Food",
+            "food_type": "Non-Veg",
+            "price": 600,
+            "address": "22 Bun Street, Chennai",
+            "distance_km": 2.0,
+            "discount": 12,
+            "more": "6",
+            "image": "/dineout_6.jpeg"
+        },
+        {
+            "id": "VB07",
+            "restaurant_name": "The Vegan Bowl",
+            "review": 4.7,
+            "food_category": "Vegan",
+            "food_type": "Veg",
+            "price": 1300,
+            "address": "11 Green Lane, Kolkata",
+            "distance_km": 5.7,
+            "discount": 20,
+            "more": "7",
+            "image": "/dineout_7.jpg"
+        },
+        {
+            "id": "CJ08",
+            "restaurant_name": "Chaat Junction",
+            "review": 4.0,
+            "food_category": "Street Food",
+            "food_type": "Veg",
+            "price": 400,
+            "address": "19 Market Street, Jaipur",
+            "distance_km": 1.5,
+            "discount": 10,
+            "more": "4",
+            "image": "/dineout_8.jpg"
+        },
+        {
+            "id": "BE09",
+            "restaurant_name": "Biryani Express",
+            "review": 4.9,
+            "food_category": "Indian",
+            "food_type": "Non-Veg",
+            "price": 1400,
+            "address": "30 Rice Road, Lucknow",
+            "distance_km": 3.2,
+            "discount": 30,
+            "more": "8",
+            "image": "/dineout_9.jpg"
+        },
+        {
+            "id": "SD10",
+            "restaurant_name": "Seafood Delight",
+            "review": 4.5,
+            "food_category": "Seafood",
+            "food_type": "Non-Veg",
+            "price": 2000,
+            "address": "55 Ocean Drive, Goa",
+            "distance_km": 7.0,
+            "discount": 15,
+            "more": "3",
+            "image": "/dineout_10.jpg"
+        },
+        {
+            "id": "DF11",
+            "restaurant_name": "Dosa Factory",
+            "review": 4.3,
+            "food_category": "South Indian",
+            "food_type": "Veg",
+            "price": 800,
+            "address": "14 Coconut Street, Kochi",
+            "distance_km": 2.8,
+            "discount": 22,
+            "more": "12",
+            "image": "/dineout_11.jpg"
+        },
+        {
+            "id": "TF12",
+            "restaurant_name": "Taco Fiesta",
+            "review": 4.2,
+            "food_category": "Mexican",
+            "food_type": "Non-Veg",
+            "price": 1100,
+            "address": "21 Fiesta Lane, Ahmedabad",
+            "distance_km": 4.3,
+            "discount": 17,
+            "more": "9",
+            "image": "/dineout_12.jpeg"
+        },
+        {
+            "id": "PC13",
+            "restaurant_name": "Pasta Corner",
+            "review": 4.4,
+            "food_category": "Italian",
+            "food_type": "Veg & Non-Veg",
+            "price": 1200,
+            "address": "65 Olive Street, Surat",
+            "distance_km": 3.9,
+            "discount": 15,
+            "more": "10",
+            "image": "/dineout_13.jpg"
+        },
+        {
+            "id": "KN14",
+            "restaurant_name": "Kebab Nation",
+            "review": 4.8,
+            "food_category": "Middle Eastern",
+            "food_type": "Non-Veg",
+            "price": 1600,
+            "address": "77 Grill Avenue, Indore",
+            "distance_km": 5.5,
+            "discount": 25,
+            "more": "6",
+            "image": "/dineout_14.jpg"
+        },
+        {
+            "id": "HB15",
+            "restaurant_name": "Healthy Bites",
+            "review": 4.6,
+            "food_category": "Healthy",
+            "food_type": "Veg",
+            "price": 1000,
+            "address": "88 Wellness Street, Bhopal",
+            "distance_km": 3.0,
+            "discount": 18,
+            "more": "6",
+            "image": "/dineout_15.jpeg"
+        }
+    ],
+
+    "citynames": [
+        { "id": "MU01", "cityname": "Mumbai" },
+        { "id": "DE02", "cityname": "Delhi" },
+        { "id": "BA03", "cityname": "Bangalore" },
+        { "id": "HY04", "cityname": "Hyderabad" },
+        { "id": "AH05", "cityname": "Ahmedabad" },
+        { "id": "CH06", "cityname": "Chennai" },
+        { "id": "KO07", "cityname": "Kolkata" },
+        { "id": "SU08", "cityname": "Surat" },
+        { "id": "PU09", "cityname": "Pune" },
+        { "id": "JA10", "cityname": "Jaipur" },
+        { "id": "LU11", "cityname": "Lucknow" },
+        { "id": "KA12", "cityname": "Kanpur" },
+        { "id": "NA13", "cityname": "Nagpur" },
+        { "id": "IN14", "cityname": "Indore" },
+        { "id": "TH15", "cityname": "Thane" },
+        { "id": "BH16", "cityname": "Bhopal" },
+        { "id": "VI17", "cityname": "Visakhapatnam" },
+        { "id": "PC18", "cityname": "Pimpri-Chinchwad" },
+        { "id": "PA19", "cityname": "Patna" },
+        { "id": "VA20", "cityname": "Vadodara" },
+        { "id": "GH21", "cityname": "Ghaziabad" },
+        { "id": "LU22", "cityname": "Ludhiana" },
+        { "id": "AG23", "cityname": "Agra" },
+        { "id": "NA24", "cityname": "Nashik" },
+        { "id": "RA25", "cityname": "Ranchi" },
+        { "id": "FA26", "cityname": "Faridabad" },
+        { "id": "ME27", "cityname": "Meerut" },
+        { "id": "RA28", "cityname": "Rajkot" },
+        { "id": "KD29", "cityname": "Kalyan-Dombivli" },
+        { "id": "VV30", "cityname": "Vasai-Virar" },
+        { "id": "GO31", "cityname": "Gorakhpur" }
+    ],
+    "cities": [
+        { "id": "IND001MUM", "city_name": "Mumbai" },
+        { "id": "IND002DEL", "city_name": "Delhi" },
+        { "id": "IND003BLR", "city_name": "Bangalore" },
+        { "id": "IND004HYD", "city_name": "Hyderabad" },
+        { "id": "IND005AMD", "city_name": "Ahmedabad" },
+        { "id": "IND006CHN", "city_name": "Chennai" },
+        { "id": "IND007KOL", "city_name": "Kolkata" },
+        { "id": "IND008SUR", "city_name": "Surat" },
+        { "id": "IND009PUN", "city_name": "Pune" },
+        { "id": "IND010JAI", "city_name": "Jaipur" },
+        { "id": "IND011LUC", "city_name": "Lucknow" },
+        { "id": "IND012KNP", "city_name": "Kanpur" },
+        { "id": "IND013NGP", "city_name": "Nagpur" },
+        { "id": "IND014IND", "city_name": "Indore" },
+        { "id": "IND015THN", "city_name": "Thane" },
+        { "id": "IND016BHO", "city_name": "Bhopal" },
+        { "id": "IND017VSK", "city_name": "Visakhapatnam" },
+        { "id": "IND018PPC", "city_name": "Pimpri-Chinchwad" },
+        { "id": "IND019PAT", "city_name": "Patna" },
+        { "id": "IND020VAD", "city_name": "Vadodara" },
+        { "id": "IND021GZB", "city_name": "Ghaziabad" },
+        { "id": "IND022LUD", "city_name": "Ludhiana" },
+        { "id": "IND023AGR", "city_name": "Agra" },
+        { "id": "IND024NSK", "city_name": "Nashik" },
+        { "id": "IND025FBD", "city_name": "Faridabad" },
+        { "id": "IND026MEH", "city_name": "Meerut" },
+        { "id": "IND027RAJ", "city_name": "Rajkot" },
+        { "id": "IND028KLY", "city_name": "Kalyan-Dombivli" },
+        { "id": "IND029VAS", "city_name": "Vasai-Virar" },
+        { "id": "IND030VAR", "city_name": "Varanasi" },
+        { "id": "IND031SRI", "city_name": "Srinagar" },
+        { "id": "IND032AUR", "city_name": "Aurangabad" },
+        { "id": "IND033DNB", "city_name": "Dhanbad" },
+        { "id": "IND034AMR", "city_name": "Amritsar" },
+        { "id": "IND035NVM", "city_name": "Navi Mumbai" },
+        { "id": "IND036ALD", "city_name": "Allahabad" },
+        { "id": "IND037RAN", "city_name": "Ranchi" },
+        { "id": "IND038HWR", "city_name": "Howrah" },
+        { "id": "IND039JBL", "city_name": "Jabalpur" },
+        { "id": "IND040GWL", "city_name": "Gwalior" },
+        { "id": "IND041CBE", "city_name": "Coimbatore" },
+        { "id": "IND042VIJ", "city_name": "Vijayawada" },
+        { "id": "IND043JDP", "city_name": "Jodhpur" },
+        { "id": "IND044MDU", "city_name": "Madurai" },
+        { "id": "IND045RPR", "city_name": "Raipur" },
+        { "id": "IND046KOT", "city_name": "Kota" },
+        { "id": "IND047CHD", "city_name": "Chandigarh" },
+        { "id": "IND048GUW", "city_name": "Guwahati" },
+        { "id": "IND049SOL", "city_name": "Solapur" },
+        { "id": "IND050HBD", "city_name": "Hubballi-Dharwad" },
+        { "id": "IND051BRL", "city_name": "Bareilly" },
+        { "id": "IND052MOR", "city_name": "Moradabad" },
+        { "id": "IND053MYS", "city_name": "Mysore" },
+        { "id": "IND054TRI", "city_name": "Tiruchirappalli" },
+        { "id": "IND055TIR", "city_name": "Tiruppur" },
+        { "id": "IND056SAL", "city_name": "Salem" },
+        { "id": "IND057ALI", "city_name": "Aligarh" },
+        { "id": "IND058BHU", "city_name": "Bhubaneswar" },
+        { "id": "IND059GOR", "city_name": "Gorakhpur" },
+        { "id": "IND060BIK", "city_name": "Bikaner" },
+        { "id": "IND061DED", "city_name": "Dehradun" },
+        { "id": "IND062JSD", "city_name": "Jamshedpur" },
+        { "id": "IND063BHI", "city_name": "Bhilai" },
+        { "id": "IND064WAR", "city_name": "Warangal" },
+        { "id": "IND065CUT", "city_name": "Cuttack" },
+        { "id": "IND066FRZ", "city_name": "Firozabad" },
+        { "id": "IND067KOC", "city_name": "Kochi" },
+        { "id": "IND068BHV", "city_name": "Bhavnagar" },
+        { "id": "IND069MUZ", "city_name": "Muzaffarpur" },
+        { "id": "IND070MTH", "city_name": "Mathura" },
+        { "id": "IND071PAT", "city_name": "Patiala" },
+        { "id": "IND072SAH", "city_name": "Saharanpur" },
+        { "id": "IND073UJJ", "city_name": "Ujjain" },
+        { "id": "IND074NLR", "city_name": "Nellore" },
+        { "id": "IND075JAL", "city_name": "Jalandhar" },
+        { "id": "IND076GUN", "city_name": "Guntur" },
+        { "id": "IND077TNV", "city_name": "Tirunelveli" },
+        { "id": "IND078ANT", "city_name": "Anantapur" },
+        { "id": "IND079RJY", "city_name": "Rajahmundry" },
+        { "id": "IND080DGP", "city_name": "Durgapur" },
+        { "id": "IND081SLG", "city_name": "Siliguri" },
+        { "id": "IND082ROU", "city_name": "Rourkela" },
+        { "id": "IND083GGN", "city_name": "Gurgaon" },
+        { "id": "IND084NOD", "city_name": "Noida" },
+        { "id": "IND085TRC", "city_name": "Trichy" },
+        { "id": "IND086UDA", "city_name": "Udaipur" },
+        { "id": "IND087PDC", "city_name": "Pondicherry" },
+        { "id": "IND088MAN", "city_name": "Manipal" },
+        { "id": "IND089OOT", "city_name": "Ooty" },
+        { "id": "IND090KGP", "city_name": "Kharagpur" },
+        { "id": "IND091TPT", "city_name": "Tirupati" },
+        { "id": "IND092VLR", "city_name": "Vellore" },
+        { "id": "IND093THR", "city_name": "Thrissur" },
+        { "id": "IND094TNV", "city_name": "Tirunelveli" },
+        { "id": "IND095NZB", "city_name": "Nizamabad" },
+        { "id": "IND096BLG", "city_name": "Belgaum" },
+        { "id": "IND097KLP", "city_name": "Kolhapur" },
+        { "id": "IND098SHL", "city_name": "Shillong" },
+        { "id": "IND099DBG", "city_name": "Darbhanga" },
+        { "id": "IND100SHM", "city_name": "Shimla" },
+        { "id": "IND101BHW", "city_name": "Bhiwani" },
+        { "id": "IND102FRR", "city_name": "Farrukhabad" },
+        { "id": "IND103NND", "city_name": "Nanded" },
+        { "id": "IND104DBR", "city_name": "Dibrugarh" },
+        { "id": "IND105RWA", "city_name": "Rewa" },
+        { "id": "IND106BDR", "city_name": "Bidar" },
+        { "id": "IND107JHS", "city_name": "Jhansi" },
+        { "id": "IND108BLS", "city_name": "Bulandshahr" },
+        { "id": "IND109BLG", "city_name": "Balangir" },
+        { "id": "IND110PTK", "city_name": "Pathankot" },
+        { "id": "IND111RTN", "city_name": "Ratnagiri" },
+        { "id": "IND112KLM", "city_name": "Kollam" },
+        { "id": "IND113NGN", "city_name": "Nagaon" },
+        { "id": "IND114KCP", "city_name": "Kanchipuram" },
+        { "id": "IND115BNG", "city_name": "Bongaigaon" },
+        { "id": "IND116JLR", "city_name": "Jhalawar" },
+        { "id": "IND117KAR", "city_name": "Karaikal" },
+        { "id": "IND118SDG", "city_name": "Sundargarh" },
+        { "id": "IND119MND", "city_name": "Mandi" },
+        { "id": "IND120KNG", "city_name": "Kangra" },
+        { "id": "IND121DIU", "city_name": "Diu" },
+        { "id": "IND122ITA", "city_name": "Itanagar" },
+        { "id": "IND123AIZ", "city_name": "Aizawl" },
+        { "id": "IND124KHM", "city_name": "Kohima" },
+        { "id": "IND125GTK", "city_name": "Gangtok" },
+        { "id": "IND126LKW", "city_name": "Lakshadweep" }
+    ]
+
+
+
+}
