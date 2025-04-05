@@ -12,7 +12,7 @@ const Dineout = () => {
   const [bgcolorright, setBgcolorright] = useState("bg-gray-300");
   const [dinerestro, setDinerestro] = useState([]);
   const dineoutapi = async () => {
-    const response = await fetch("http://localhost:3000/dineout");
+    const response = await fetch("https://my-project-server-3i71.onrender.com/dineout");
     const data = await response.json();
     setDinerestro(data || []);
   };

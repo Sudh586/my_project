@@ -8,7 +8,7 @@ const Cities = () => {
   const [showmore, setShowmore] = useState("show more");
 
   const citydelivery = async () => {
-    const response = await fetch("http://localhost:3000/citynames");
+    const response = await fetch("https://my-project-server-3i71.onrender.com/citynames");
     const data = await response.json();
     setCname(data || []);
     setCity(data.slice(0 ,11))

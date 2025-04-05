@@ -6,7 +6,7 @@ const Grocery = () => {
   const[showmore , setShowmore]=useState(true)
   const[toggle , setToggle]=useState("show more")
   const groceryapi = async () => {
-    const response = await fetch("http://localhost:3000/citynames");
+    const response = await fetch("https://my-project-server-3i71.onrender.com/citynames");
     const data = await response.json();
     setGroty(data || []);
     setMinigroty(data.slice(0 , 11))
