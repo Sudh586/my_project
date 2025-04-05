@@ -31,12 +31,14 @@ const Category = () => {
   const [categoryjson, setCatagoryjson] = useState([]);
   const [categoryjson2nd, setCatagoryjson2nd] = useState([]);
   const fetchcategory = async () => {
-    const response = await fetch("https://my-project-server.onrender.com/categories");
+    const response = await fetch("https://my-project-server-3i71.onrender.com/categories");
+  
     const data = await response.json();
     setCatagoryjson(data || []);
   };
   const fetchcetagory2 = async () => {
-    const response = await fetch("https://my-project-server.onrender.com/categories2");
+    const response = await fetch("https://my-project-server-3i71.onrender.com/categories2");
+  
     const data = await response.json();
     setCatagoryjson2nd(data || []);
   };
@@ -80,7 +82,8 @@ const Category = () => {
               >
                 <NavLink to={`/${cate.id}/${cate.name}/${cate.tagline}`}>
                   {" "}
-                  <img src={`https://my-project-server.onrender.com${cate.image}`} alt={cate.name} />
+                  <img src={`https://my-project-server-3i71.onrender.com${cate.image}`} alt={cate.name} />
+
 
                 </NavLink>
               </div>
