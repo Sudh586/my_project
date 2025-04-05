@@ -96,10 +96,8 @@ const Category = () => {
                 style={{ transform: `translateX(-${slide * 100}%)` }}
               >
                 <NavLink to={`/${cate2.id}/${cate2.name}`}>
-                  <img
-                    src={`http://localhost:3000${cate2.image}`}
-                    alt={cate2.name}
-                  />
+                 <img src={`https://my-project-server.onrender.com${cate2.image}`} alt={cate2.name} />
+
                 </NavLink>
               </div>
             );
